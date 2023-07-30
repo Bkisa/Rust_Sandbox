@@ -1,6 +1,4 @@
 fn main() {
-    println!("Hello, world!");
-}fn main() {
     // create a collection with elements
     let collection = vec!["Ali", "Mehmet", "Kamil", "Cabbar", "Osman"];
 
@@ -45,4 +43,3 @@ where
         // Collect the filtered elements into a new vector a return it.
         .collect()
 }
-
